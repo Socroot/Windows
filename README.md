@@ -1,4 +1,4 @@
-**🪟 Windows Security Resources**
+# 🪟 Windows Security Resources
 
 A collection of practical Windows security resources designed for SOC Analysts, Blue Teamers, DFIR professionals, and anyone interested in Windows log analysis and detection engineering.
 
