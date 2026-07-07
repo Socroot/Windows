@@ -1,13 +1,19 @@
-# Windows Advanced Audit Policy
+# 🛡️ Windows Advanced Audit Policy
 
-This folder contains an XMind mind map of important Windows Advanced Audit Policy settings for security monitoring and log analysis.
+This resource provides an XMind mind map of the most important Windows Advanced Audit Policy settings used in Security Monitoring, SOC operations, DFIR, and Windows Log Analysis.
 
-## Files
+## 📁 Files
 
-* **Advanced Audit Policy - Soc Root.xmind** — XMind source file
-* **preview.png** — Mind map preview
+* **Advanced Audit Policy - Soc Root.xmind** — Editable XMind file.
+* **preview.png** — Mind map preview.
 
-This resource is intended for SOC Analysts, Blue Teamers, and DFIR professionals.
+## 🎯 Who is this for?
+
+* SOC Analysts
+* Blue Team Engineers
+* DFIR Analysts
+* Detection Engineers
+* Windows Administrators
 
 ---
 
